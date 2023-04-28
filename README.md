@@ -11,8 +11,8 @@ This is a app which represents you with different currencies where you can view 
 
 
 ## About it
- 1) This App will Show you photos category wise based on your preffered category.
-2) This also has search functionality where you can perform live search 
+ 1) This App will give you facility to convert any currency of the world.
+2) This also gives you forex previling market rate based on USD.
 ## Screenshots
 <img width="293" alt="Screenshot 2023-04-28 at 11 02 43 PM" src="https://user-images.githubusercontent.com/121867874/235218770-14612682-aec7-4664-b93f-51c8d64dc5e5.png"><img width="293" alt="Screenshot 2023-04-28 at 11 02 48 PM" src="https://user-images.githubusercontent.com/121867874/235218818-944529f0-6857-4620-ae01-8f753fa343b1.png"><img width="293" alt="Screenshot 2023-04-28 at 11 03 04 PM" src="https://user-images.githubusercontent.com/121867874/235218837-6fa045b2-0db9-412f-8d72-1c38eccdd910.png"><img width="293" alt="Screenshot 2023-04-28 at 11 03 21 PM" src="https://user-images.githubusercontent.com/121867874/235218847-b3b6ae3b-defd-47b4-9c2a-5d03faa5ecb5.png"><img width="293" alt="Screenshot 2023-04-28 at 11 03 33 PM" src="https://user-images.githubusercontent.com/121867874/235218870-ab5cbca7-7d1d-4518-a6ba-e6c8f2d82489.png"><img width="293" alt="Screenshot 2023-04-28 at 11 03 40 PM" src="https://user-images.githubusercontent.com/121867874/235218886-ec5c23a3-2ec3-4c79-9110-d5e4e4e95314.png"><img width="293" alt="Screenshot 2023-04-28 at 11 03 56 PM" src="https://user-images.githubusercontent.com/121867874/235218902-292a05ef-beb5-4720-909c-14db6edcb42a.png"><img width="293" alt="Screenshot 2023-04-28 at 11 04 02 PM" src="https://user-images.githubusercontent.com/121867874/235218914-f0598462-7231-433f-b647-45f5703b41b0.png"><img width="293" alt="Screenshot 2023-04-28 at 11 04 10 PM" src="https://user-images.githubusercontent.com/121867874/235218939-fdc8ccec-93b7-4883-97ee-d48960597a63.png"><img width="293" alt="Screenshot 2023-04-28 at 11 04 23 PM" src="https://user-images.githubusercontent.com/121867874/235218958-92244c65-1623-48ed-a669-2e5f3c35e2ee.png">
 
